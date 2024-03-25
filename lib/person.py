@@ -14,6 +14,3 @@ APPROVED_JOBS = [
     "Marketing",
     "Purchasing"
 ]
-
-class Person:
-    pass
